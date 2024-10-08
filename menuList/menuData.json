@@ -1,0 +1,62 @@
+{
+    "menu": {
+        "Appetizers": [
+            {
+                "name": "Bruschetta",
+                "description": "Grilled bread topped with diced tomatoes, basil, garlic, and olive oil.",
+                "price": "R150"
+            },
+            {
+                "name": "Calamari Fritti",
+                "description": "Lightly breaded and fried calamari served with marinara sauce and lemon.",
+                "price": "R220"
+            }
+        ],
+        "Main_Courses": [
+            {
+                "name": "Grilled Salmon",
+                "description": "Fresh salmon fillet grilled, served with asparagus and lemon butter sauce.",
+                "price": "R450"
+            },
+            {
+                "name": "Pasta Primavera",
+                "description": "Seasonal vegetables sautéed with garlic and olive oil over linguine.",
+                "price": "R350"
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Tiramisu",
+                "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone.",
+                "price": "R120"
+            },
+            {
+                "name": "Chocolate Lava Cake",
+                "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+                "price": "R160"
+            }
+        ],
+        "Beverages": [
+            {
+                "name": "House Red Wine",
+                "description": "Smooth blend with notes of cherry and oak.",
+                "price": "R90/glass"
+            },
+            {
+                "name": "Sparkling Water",
+                "description": "Refreshing sparkling water with a slice of lemon.",
+                "price": "R40"
+            },
+            {
+                "name": "Craft Beer",
+                "description": "Locally brewed beer with rich flavors.",
+                "price": "R70"
+            },
+            {
+                "name": "Soft Drink",
+                "description": "Choice of cola, lemon-lime, or ginger ale.",
+                "price": "R30"
+            }
+        ]
+    }
+}
